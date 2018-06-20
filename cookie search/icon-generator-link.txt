@@ -1,0 +1,5 @@
+Corona Icon Generator:
+http://icon.angrymarmot.org/
+
+Project settings info:
+http://docs.coronalabs.com/guide/distribution/buildSettings/index.html
